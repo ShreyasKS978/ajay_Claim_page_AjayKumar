@@ -400,7 +400,7 @@ app.use((err, req, res, next) => {
 });
 
 // Start server
-const PORT = 3407;
+const PORT = 3068;
 const HOST = '0.0.0.0'; // Listen on all interfaces
 
 app.listen(PORT, HOST, async () => {
